@@ -59,7 +59,7 @@
         <mxCell id="twPrnzx1wudMUvf7t9YJ-11" value="VM Debian&lt;br&gt;Dockzilla" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VM_Linux.svg;" parent="1" vertex="1">
           <mxGeometry x="145" y="196.3" width="50" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="twPrnzx1wudMUvf7t9YJ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=wire;dashed=1;" parent="1" target="twPrnzx1wudMUvf7t9YJ-11" edge="1">
+        <mxCell id="twPrnzx1wudMUvf7t9YJ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=wire;" parent="1" target="twPrnzx1wudMUvf7t9YJ-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="290" y="218" as="sourcePoint" />
@@ -92,9 +92,6 @@
             <mxPoint x="235" y="150" as="sourcePoint" />
             <mxPoint x="180" y="151" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="Optsze-ANichDLxVOrV5-14" value="" style="ellipse;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="480" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Optsze-ANichDLxVOrV5-15" value="" style="ellipse;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="570" y="317" width="35" height="10" as="geometry" />
